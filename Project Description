@@ -1,0 +1,27 @@
+Introduction
+
+The American Time Use Survey (ATUS), in collaboration with the Food and 
+Nutrition Service (FMS), National Cancer Society (NCI), and Bureau of Labor 
+Statistics (BBLS) aims to improve the design of the Supplemental Nutrition 
+Assistance Program (SNAP). The goal of ATUS is to interview participants and 
+collect data on how they spend 24 hours a day on eating and health activities. 
+This data will then be used to make an informed decision on how the SNAP 
+program can be improved. This survey program is conducted every year.
+
+• There is no centralized repository for accessing all the data gathered on this 
+survey. Some sources have copies of this data, and therefore integrity is not 
+managed. Every researcher that needs the data needs a database to clean, 
+translate and transform the data to their need
+
+Motivation: Obesity and overweight are major health conditions recorded in the 
+United States that are predominantly caused by poor eating patterns and lack of 
+physical activity. Low-income households seem to have poor health conditions 
+compared to middle-income households.
+
+Project Goal: Our aim is to understand and analyze how groups of individuals 
+incorporate eating and health into their daily activities through a relational 
+database. 
+Tools Used: MySQL, Tableau Desktop
+
+
+
