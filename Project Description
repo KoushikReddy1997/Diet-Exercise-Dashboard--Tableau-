@@ -1,27 +1,32 @@
 Introduction
 
-The American Time Use Survey (ATUS), in collaboration with the Food and 
-Nutrition Service (FMS), National Cancer Society (NCI), and Bureau of Labor 
-Statistics (BBLS) aims to improve the design of the Supplemental Nutrition 
-Assistance Program (SNAP). The goal of ATUS is to interview participants and 
-collect data on how they spend 24 hours a day on eating and health activities. 
-This data will then be used to make an informed decision on how the SNAP 
-program can be improved. This survey program is conducted every year.
+  The American Time Use Survey (ATUS), in collaboration with the Food and Nutrition Service (FMS), National Cancer Society (NCI),
+  and Bureau of Labor Statistics (BBLS) aims to improve the design of the Supplemental Nutrition Assistance Program (SNAP).
+  The goal of ATUS is to interview participants and collect data on how they spend 24 hours a day on eating and health activities.
+  This data will then be used to make an informed decision on how the SNAP program can be improved. 
 
-• There is no centralized repository for accessing all the data gathered on this 
-survey. Some sources have copies of this data, and therefore integrity is not 
-managed. Every researcher that needs the data needs a database to clean, 
-translate and transform the data to their need
+Motivation:
+  Obesity and overweight are major health conditions recorded in the United States that are predominantly
+  caused by poor eating patterns and lack of physical activity. Low-income households seem to have poor health conditions 
+  compared to middle-income households.
 
-Motivation: Obesity and overweight are major health conditions recorded in the 
-United States that are predominantly caused by poor eating patterns and lack of 
-physical activity. Low-income households seem to have poor health conditions 
-compared to middle-income households.
+Project Goal: Our aim is to understand and analyze how groups of individuals incorporate eating and health
+  into their daily activities through a relational database. 
 
-Project Goal: Our aim is to understand and analyze how groups of individuals 
-incorporate eating and health into their daily activities through a relational 
-database. 
-Tools Used: MySQL, Tableau Desktop
+Tools Used: MySQL, Tableau Desktop, PHPmyadmin
+
+Analysis Process:
+  -Designed an entity-relationship diagram to determine how the database will be created.
+  -Created a database using MySQL as a relational database management software and cleaned the data using SQL queries.
+  -Connected the created database to the data visualization tool Tableau, using the MYSQL connector.
+  -Created research questions for the analysis, then extracted data as per them using SQL queries.
+
+Results:
+  -Participants who consume meals & meals and have a high income (1) have an average weight of 76.4 kilograms and low income (5) have an average weight of 78.2 kilograms.
+  -It showed that Higher the income level, the better was the Health status.
+  -People with the highest income level had the maximum Body Mass Index and vice versa.
+  -There wasn't any significant association between frequency of exercise and weights of people.
+
 
 
 
